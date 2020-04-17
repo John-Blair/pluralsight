@@ -17,4 +17,4 @@
   }
 
 })();
-setInterval(function () {jQuery("button[data-css-1srt63x]:visible").click();}, 5000);
+setInterval(function () {jQuery("button[data-css-el86ax]:visible").click();}, 5000);
